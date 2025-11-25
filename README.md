@@ -116,7 +116,8 @@ clc;
   ylabel('Amplitude');  
 
 ## TABULATION:
-![WhatsApp Image 2025-11-19 at 17 38 37_0162b24f](https://github.com/user-attachments/assets/23e82072-0e29-4a92-9311-ce5a04138e42)
+![WhatsApp Image 2025-11-25 at 16 04 48_8aa04ac3](https://github.com/user-attachments/assets/8526d80f-6984-4055-bf1a-221fc444bf65)
+
 ## OUTPUT:
 ![WhatsApp Image 2025-11-19 at 17 38 54_289d3104](https://github.com/user-attachments/assets/c1d3bfa4-fcc0-498d-8499-f71cc735387e)
 
